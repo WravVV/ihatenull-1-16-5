@@ -7,7 +7,7 @@
   "mixins": [
   ],
   "client": [
-    "MixinMissingTextureSprite"
+    "MixinMissingTextureAtlasSprite"
   ],
   "injectors": {
     "defaultRequire": 1
